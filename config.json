@@ -405,7 +405,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.royalapps.apps.mlakhs.SettingsFragment", "fragment"
+          "com.sika12.net.matos.SettingsFragment", "fragment"
         ]
       }
     ]
